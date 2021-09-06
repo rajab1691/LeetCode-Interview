@@ -21,6 +21,6 @@
 
 ### [Backtracking](Backtracking)
 
-- [Combinations](Backtracking/combinations.cpp)
+- [Combinations](Backtracking/Combinations.cpp)
 
   
