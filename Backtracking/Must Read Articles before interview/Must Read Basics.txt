@@ -1,2 +1,0 @@
-1)What happens when you hit a URL in browser
-	->https://www.freecodecamp.org/news/what-happens-when-you-hit-url-in-your-browser/
