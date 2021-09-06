@@ -19,8 +19,8 @@
 
 ## Question List
 
-### [Recursion](Backtracking)
+### [Backtracking](backtracking)
 
-- [Combinations](Backtracking/Combinations.cpp)
+- [Combinations](backtracking/bombinations.cpp)
 
   
