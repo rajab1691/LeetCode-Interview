@@ -16,11 +16,6 @@
   
 ## Question List
 
-
-## Question List
-
-## Question List
-
 ### [Recursion](Recursion)
 
 - [Fibonacii](Recursion/fibonacci.cpp)
