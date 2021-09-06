@@ -1,0 +1,5 @@
+Deshaw
+---------
+1)Asked about dbms,c++,and other cs subjects mostly in depth
+2)c lang o/p based quesn + aptitude must
+3)DP very much run all test cases

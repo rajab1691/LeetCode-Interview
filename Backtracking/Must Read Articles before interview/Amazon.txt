@@ -1,0 +1,35 @@
+2021
+-------
+Interview-1
+-------------
+1coding + 4technical
+
+Coding
+--------
+10 mcqs on Java + 3coding(Medium)
+
+Technical-1
+-------------
+->Intro about urself
+->Discussion on Projects
+->questions on Prog lang
+->1-2 behavioral quesns
+->2 coding quesns
+->asked if any quesns for him
+
+Technical-2
+-------------
+->Intro about urself
+->Discussion on Projects
+->2 coding quesn
+->asked if any quesns for him
+
+Technical-3,4
+-------------
+Behavioral
+
+
+
+------------------------------------------------------------------
+
+
