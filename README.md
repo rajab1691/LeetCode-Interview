@@ -24,6 +24,7 @@
 
 - [Combinations](Backtracking/Combinations.cpp)
 - [Letter Combinations of a Phone Number](Backtracking/LetterCombinationsofaPhoneNumber.cpp)
+- [Generate Parentheses](Backtracking/LetterCombinationsofaPhoneNumber.cpp)
 
 
 ### [Dynamic Programming](DynamicProgramming)
