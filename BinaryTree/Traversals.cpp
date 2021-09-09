@@ -8,19 +8,19 @@
  }
 
 //Preorder Traversal
- vector<int> inorderTraversal(TreeNode* root) {
+ vector<int> preorderTraversal(TreeNode* root) {
         if(root!=NULL){
            cout<<(root->val)<<" ";
-           inorderTraversal(root->left);
-           inorderTraversal(root->right);
+           preorderTraversal(root->left);
+           preorderTraversal(root->right);
         }
  }
 
  //Postorder Traversal
- vector<int> inorderTraversal(TreeNode* root) {
+ vector<int> postorderTraversal(TreeNode* root) {
         if(root!=NULL){
-           inorderTraversal(root->left);
-           inorderTraversal(root->right);
+           postorderTraversal(root->left);
+           postorderTraversal(root->right);
            cout<<(root->val)<<" ";
         }
  }
