@@ -27,6 +27,7 @@
 - [Generate Parentheses](Backtracking/GenerateParentheses.cpp)
 - [Permutations](Backtracking/Permutations.cpp)
 - [Permutations2](Backtracking/Permutations2.cpp)
+- [Subsets](Backtracking/Subsets.cpp)
 
 
 ### [Dynamic Programming](DynamicProgramming)
