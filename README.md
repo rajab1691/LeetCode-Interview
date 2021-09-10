@@ -28,6 +28,7 @@
 - [Permutations](Backtracking/Permutations.cpp)
 - [Permutations2](Backtracking/Permutations2.cpp)
 - [Subsets](Backtracking/Subsets.cpp)
+- [Subsets 2](Backtracking/Subsets2.cpp)
 
 
 ### [Dynamic Programming](DynamicProgramming)
