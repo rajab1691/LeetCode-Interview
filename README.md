@@ -31,6 +31,7 @@
 - [Subsets 2](Backtracking/Subsets2.cpp)
 - [N-Queens](Backtracking/N-Queens.cpp)
 - [N-Queens2](Backtracking/N-Queens2.cpp)
+- [RatInaMaze](Backtracking/RatInaMaze.cpp)
 
 ### [Dynamic Programming](DynamicProgramming)
 
