@@ -1,3 +1,7 @@
+/*
+    Time Complexity : O(N!), we have N choices in the first row, N-1 in the second row, N-2 in the next and so on... which brings overall time complexity to O(N!)
+    Space Complexity : O(N*N). Required for board and recursive stack.
+*/
 class Solution {
 public:
     
