@@ -29,7 +29,7 @@
 - [Permutations2](Backtracking/Permutations2.cpp)
 - [Subsets](Backtracking/Subsets.cpp)
 - [Subsets 2](Backtracking/Subsets2.cpp)
--[N-Queens](N-Queens.cpp)
+- [N-Queens](N-Queens.cpp)
 
 ### [Dynamic Programming](DynamicProgramming)
 
