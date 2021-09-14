@@ -10,7 +10,7 @@
 + Binary Search Tree 🙌
 + Heap 🧨 
 + Linked List 🎡
-+ Graph 🙌
++ Graph 🐱‍🏍
 
 
   
