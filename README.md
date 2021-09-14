@@ -30,11 +30,12 @@
 - [Subsets](Backtracking/Subsets.cpp)
 - [Subsets 2](Backtracking/Subsets2.cpp)
 - [N-Queens](Backtracking/N-Queens.cpp)
-- [N-Queens2](Backtracking/N-Queens2.cpp)
+- [N-Queens 2](Backtracking/N-Queens2.cpp)
 - [RatInaMaze](Backtracking/RatInaMaze.cpp)
 - [SudokuSolver](Backtracking/SudokuSolver.cpp)
 - [PalindromePartitioning](Backtracking/PalindromePartitioning.cpp)
-- [CombinationSum](Backtracking/CombinationSum.cpp)
+- [Combination Sum](Backtracking/CombinationSum.cpp)
+- [Combination Sum II](Backtracking/CombinationSumII.cpp)
 
 ### [Dynamic Programming](DynamicProgramming)
 
