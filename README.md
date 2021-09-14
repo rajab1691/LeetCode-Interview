@@ -34,7 +34,7 @@
 - [RatInaMaze](Backtracking/RatInaMaze.cpp)
 - [SudokuSolver](Backtracking/SudokuSolver.cpp)
 - [PalindromePartitioning](Backtracking/PalindromePartitioning.cpp)
-- [CombinationSum.cpp](Backtracking/CombinationSum.cpp)
+- [CombinationSum](Backtracking/CombinationSum.cpp)
 
 ### [Dynamic Programming](DynamicProgramming)
 
