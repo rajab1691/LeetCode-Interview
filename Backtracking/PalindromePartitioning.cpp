@@ -2,6 +2,11 @@
 /*
     Time complexity=O(n*2^n)
     We are basically trying out every possible partition out there. For a string with length n, we will have 2^(n - 1) ways to partition it.
+    
+    Algo Steps:
+       choose -what? For this problem, we choose each substring.
+       how to explore?- For this problem, we do the same thing to the remained string.
+       unchoose- Do the opposite operation of choose.
 */
 
 class Solution {
