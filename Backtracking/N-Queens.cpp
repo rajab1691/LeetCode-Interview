@@ -7,7 +7,9 @@
             ->else return false and backtrack;
 */
 /*Using backtracking
-  The worst-case time complexity is O(N!)
+  
+  The complexity is n^n 
+  
 */
 class Solution {
 public:
