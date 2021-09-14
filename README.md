@@ -33,6 +33,7 @@
 - [N-Queens2](Backtracking/N-Queens2.cpp)
 - [RatInaMaze](Backtracking/RatInaMaze.cpp)
 - [SudokuSolver](Backtracking/SudokuSolver.cpp)
+- [PalindromePartitioning](Backtracking/PalindromePartitioning.cpp)
 
 ### [Dynamic Programming](DynamicProgramming)
 
