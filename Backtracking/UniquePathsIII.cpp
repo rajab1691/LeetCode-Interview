@@ -3,7 +3,9 @@
       ->we need to count all paths from src to dest by visiting evry single block where there is no obstacle.
      
   **here if we have to check for min/max ..path/res etc then we have to use DP.
-
+  
+    Time complexity = O(3 ^ n), where n is the total number of cells without obstacles.
+          ->(because for all cells except the first one, we'll have 3 choices for the next cell, since we cannot visit the previous cell in the path again)
 */
 
 class Solution {
