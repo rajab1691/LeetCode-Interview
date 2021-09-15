@@ -1,4 +1,22 @@
-
+Every backtracking problem consists of three steps <br />
+  1)choose <br />
+  2)explore <br />
+  3)unchoose <br />
+  
+ always use helper function in backtracking problem <br />
+ 
+ ```
+  -givenFxn(){
+      
+      return res;
+ }
+ helper(){
+    //base case
+    
+    //recursive
+ }
+ 
+ ```
 ### [Backtracking](Backtracking)
 
 - [Combinations](Backtracking/Combinations.cpp)
