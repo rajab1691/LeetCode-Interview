@@ -48,6 +48,7 @@ public:
             if(board[i][j]=='Q')
                 return false;
         }
+      //check right diagonal
         for(int i=row,j=col;i>=0 and j<n ;i--,j++){
             if(board[i][j]=='Q')
                 return false;   
