@@ -37,6 +37,7 @@
 - [Combination Sum](Backtracking/CombinationSum.cpp)
 - [Combination Sum II](Backtracking/CombinationSumII.cpp)
 - [Combination Sum III](Backtracking/CombinationSumIII.cpp) 
+- [Unique Paths III](Backtracking/UniquePathsIII.cpp)
 
 ### [Dynamic Programming](DynamicProgramming)
 
