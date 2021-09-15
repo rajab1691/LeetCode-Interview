@@ -3,14 +3,14 @@
 
 ## Table of Contents
 
-+ Recursion 🙌
++ [Recursion](Recursion) 🙌
 + [Backtracking](Backtracking)  🧨
-+ Dynamic Programming 🎡
-+ Binary Tree 🐱‍🏍
-+ Binary Search Tree 🙌
-+ Heap 🧨 
-+ Linked List 🎡
-+ Graph 🐱‍🏍
++ [Dynamic Programming](DynamicProgramming) 🎡
++ [Binary Tree](BinaryTree) 🐱‍🏍
++ [Binary Search Tree](BST) 🙌
++ [Heap](Heap) 🧨 
++ [Linked List](LinkedList) 🎡
++ [Graph](Graph) 🐱‍🏍
 
 
   
