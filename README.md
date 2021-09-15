@@ -16,11 +16,11 @@
   
 ## Question List
 
-### [Recursion](Recursion)
+### [Recursion](Recursion) ✔
 
 - [Fibonacii](Recursion/fibonacci.cpp)
 
-### [Backtracking](Backtracking)
+### [Backtracking](Backtracking) ✔
 
 - [Combinations](Backtracking/Combinations.cpp)
 - [Letter Combinations of a Phone Number](Backtracking/LetterCombinationsofaPhoneNumber.cpp)
@@ -40,11 +40,16 @@
 - [Unique Paths III](Backtracking/UniquePathsIII.cpp)
 - [Letter Case Permutation](Backtracking/LetterCasePermutation.cpp)
 
-### [Dynamic Programming](DynamicProgramming)
+### [Dynamic Programming](DynamicProgramming) ✔
 
 - [Fibonacii](DynamicProgramming/fibonacci.cpp)
 
 
-### [Binary Tree](BinaryTree)
+### [Binary Tree](BinaryTree) ✔
 
 - [Traversals](BinaryTree/Traversals.cpp)
+
+
+### [Trie](Trie) ✔
+
+- [Implementation](Implementation.cpp)
