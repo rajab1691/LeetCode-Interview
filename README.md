@@ -38,6 +38,7 @@
 - [Combination Sum II](Backtracking/CombinationSumII.cpp)
 - [Combination Sum III](Backtracking/CombinationSumIII.cpp) 
 - [Unique Paths III](Backtracking/UniquePathsIII.cpp)
+- [Letter Case Permutation](Backtracking/LetterCasePermutation.cpp)
 
 ### [Dynamic Programming](DynamicProgramming)
 
