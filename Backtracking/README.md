@@ -1,4 +1,6 @@
-Every backtracking problem consists of three steps <br />
+# Backtracking
+
++ Every backtracking problem consists of three steps <br />
   1)choose <br />
   2)explore <br />
   3)unchoose <br />
