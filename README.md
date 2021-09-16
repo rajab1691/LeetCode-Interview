@@ -52,4 +52,4 @@
 
 ### [Trie](Trie) ✔
 
-- [Implementation](Implementation.cpp)
+- [Implementation](Trie/Implementation.cpp)
