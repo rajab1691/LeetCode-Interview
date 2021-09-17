@@ -53,3 +53,4 @@
 ### [Trie](Trie) ✔
 
 - [Implementation](Trie/Implementation.cpp)
+- [Longest Common Prefix](Trie/LongestCommonPrefix.cpp)
