@@ -39,6 +39,9 @@
 - [Rat In a Maze](Backtracking/RatInaMaze.cpp)
 - [SudokuSolver](Backtracking/SudokuSolver.cpp)
 - [Unique Paths III](Backtracking/UniquePathsIII.cpp)
+- [Word break](Backtracking/WordBreak.cpp)
+- [Word Break II](Backtracking/WordBreak2.cpp)
+- [Remove Invalid Parentheses](Backtracking/RemoveInvalidParentheses.cpp)
 
 
 ### [Dynamic Programming](DynamicProgramming) ✔
