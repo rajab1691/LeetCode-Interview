@@ -25,6 +25,7 @@
 - [Combinations](Backtracking/Combinations.cpp)
 - [Letter Combinations of a Phone Number](Backtracking/LetterCombinationsofaPhoneNumber.cpp)
 - [Generate Parentheses](Backtracking/GenerateParentheses.cpp)
+- [Remove Invalid Parentheses](Backtracking/RemoveInvalidParentheses.cpp)
 - [PalindromePartitioning](Backtracking/PalindromePartitioning.cpp)
 - [Letter Case Permutation](Backtracking/LetterCasePermutation.cpp)
 - [Permutations](Backtracking/Permutations.cpp)
@@ -37,12 +38,15 @@
 - [N-Queens](Backtracking/N-Queens.cpp)
 - [N-Queens 2](Backtracking/N-Queens2.cpp)
 - [Rat In a Maze](Backtracking/RatInaMaze.cpp)
-- [SudokuSolver](Backtracking/SudokuSolver.cpp)
+- [Sudoku Solver](Backtracking/SudokuSolver.cpp)
 - [Unique Paths III](Backtracking/UniquePathsIII.cpp)
+- [Find paths from corner cell to middle cell in maze](Backtracking/Findpathsfromcornercelltomiddlecellinmaze.cpp)
+- [Find shortest safe route in a path with landmines](Backtracking/Findshortestsaferouteinapathwithlandmines.cpp)
+- [Longest Possible Route in a Matrix with Hurdles](Backtracking/LongestPossibleRouteinaMatrixwithHurdles.cpp)
 - [Word break](Backtracking/WordBreak.cpp)
 - [Word Break II](Backtracking/WordBreak2.cpp)
-- [Remove Invalid Parentheses](Backtracking/RemoveInvalidParentheses.cpp)
-
+- [M Coloring Problem](Backtracking/mColoringProblem.cpp)
+-  
 
 ### [Dynamic Programming](DynamicProgramming) ✔
 
