@@ -69,34 +69,32 @@
 - [Topological sorting](Graph/topo.cpp)
 - [Arrival and Departure time](Graph/arrival.cpp)
 - [Find Itinery from Given arrival and departure](Graph/itinery.cpp)
-- [Bipartite (Two coloring Problem)]
-- [Total Paths Src and Dest Given]
-- [Is a Graph Tree]
-- [Minimum Spanning Tree]
-- [MST Kruskal's Algo]
-- [MST Prim's Algo]
-- [SSSP BFS]
-- [0-1 BFS]
-- [Dijkstra's Algo]
-- [Bellman Ford]
-- [Bellman ford in 1 pass]
-- [Floyd Warshall Algo]
-- [Print Negative Weight Path(Cycle) in Directed Graph]
-- [Transitive Closure]
-- [Flood Fill]
-- [Applying DFS on GRID]
-- [Counting Connected Component in GRID]
-- [Applying BFS on GRID]
-- [Steps by Knight]
-- [Multisource BFS]
-- [Print Backedges or Print one Cycle]
-- [Articulation Point and Bridges]
-- [Biconnected Graph]
-- [Strongly Connected Components (Kosaraju)]
-- [DFS on Trees]
-- [Print the Path b/w any two nodes of a tree]
-- [Euler's tour]
-- [LCA]
+- [Bipartite (Two coloring Problem)](Graph/Bipartite.cpp)
+- [Total Paths Src and Dest Given](Graph/TotalPathsSrcandDestGiven.cpp)
+- [Is a Graph Tree](Graph/graphatree.cpp)
+- [MST Kruskal's Algo](Graph/kruskal.cpp)
+- [MST Prim's Algo](Graph/prims.cpp)
+- [SSSP BFS](Graph/ssspbfs.cpp)
+- [0-1 BFS](Graph/01bfs.cpp)
+- [Dijkstra's Algo](Graph/dijkstra.cpp)
+- [Bellman Ford](Graph/bellman.cpp)
+- [Floyd Warshall Algo](Graph/floydwarsh.cpp)
+- [Print Negative Weight Path(Cycle) in Directed Graph](Graph/negativeweight.cpp)
+- [Transitive Closure](Graph/transitive.cpp)
+- [Flood Fill](Graph/floodfill.cpp)
+- [Applying DFS on GRID](Graph/dfsongrid.cpp)
+- [Counting Connected Component in GRID](Graph/countconnect.cpp)
+- [Applying BFS on GRID](Graph/bfsongrid.cpp)
+- [Steps by Knight](Graph/stepsbyknight.cpp)
+- [Multisource BFS](Graph/multisourcebfs.cpp)
+- [Print Backedges or Print one Cycle](Graph/printbackedges.cpp)
+- [Articulation Point and Bridges](Graph/articulation.cpp)
+- [Biconnected Graph](Graph/biconnected.cpp)
+- [Strongly Connected Components (Kosaraju)](Graph/kosaraju.cpp)
+- [DFS on Trees](Graph/dfsontrees.cpp)
+- [Print the Path b/w any two nodes of a tree](Graph/pathintree.cpp)
+- [Euler's tour](Graph/euler.cpp)
+- [LCA](Graph/lca.cpp)
 
 
 ### [Binary Tree](BinaryTree) ✔
