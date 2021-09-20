@@ -22,6 +22,7 @@
 
 ### [Backtracking](Backtracking) ✔
 
+- [Permutations Of a String](Backtracking/printallpermutationsofagivenstring.cpp)
 - [Combinations](Backtracking/Combinations.cpp)
 - [Letter Combinations of a Phone Number](Backtracking/LetterCombinationsofaPhoneNumber.cpp)
 - [Generate Parentheses](Backtracking/GenerateParentheses.cpp)
@@ -46,7 +47,9 @@
 - [Word break](Backtracking/WordBreak.cpp)
 - [Word Break II](Backtracking/WordBreak2.cpp)
 - [M Coloring Problem](Backtracking/mColoringProblem.cpp)
--  
+- [Hamiltonian](Backtracking/Hamiltonian.cpp)
+- [MatchAPattern](MatchAPattern.cpp)
+
 
 ### [Dynamic Programming](DynamicProgramming) ✔
 
