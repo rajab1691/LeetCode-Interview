@@ -60,6 +60,44 @@
 ### [Graph](Graph) ✔
 
 - [Graph Implement](Graph/implementation.cpp)
+- [Traversals](Graph/Traversals.cpp)
+- [Count connected components](Graph/countCon.cpp)
+- [DSU implementation](Graph/DSU.cpp)
+- [Cycle detection Undirected](Graph/cycleUndir.cpp)
+- [Shortest Cycle](Graph/shortcycle.cpp)
+- [Cycle detection Directed](Graph/cycledir.cpp)
+- [Topological sorting](Graph/topo.cpp)
+- [Arrival and Departure time](Graph/arrival.cpp)
+- [Find Itinery from Given arrival and departure](Graph/itinery.cpp)
+- [Bipartite (Two coloring Problem)]
+- [Total Paths Src and Dest Given]
+- [Is a Graph Tree]
+- [Minimum Spanning Tree]
+- [MST Kruskal's Algo]
+- [MST Prim's Algo]
+- [SSSP BFS]
+- [0-1 BFS]
+- [Dijkstra's Algo]
+- [Bellman Ford]
+- [Bellman ford in 1 pass]
+- [Floyd Warshall Algo]
+- [Print Negative Weight Path(Cycle) in Directed Graph]
+- [Transitive Closure]
+- [Flood Fill]
+- [Applying DFS on GRID]
+- [Counting Connected Component in GRID]
+- [Applying BFS on GRID]
+- [Steps by Knight]
+- [Multisource BFS]
+- [Print Backedges or Print one Cycle]
+- [Articulation Point and Bridges]
+- [Biconnected Graph]
+- [Strongly Connected Components (Kosaraju)]
+- [DFS on Trees]
+- [Print the Path b/w any two nodes of a tree]
+- [Euler's tour]
+- [LCA]
+
 
 ### [Binary Tree](BinaryTree) ✔
 
