@@ -49,7 +49,7 @@
 - [Word Break II](Backtracking/WordBreak2.cpp)
 - [M Coloring Problem](Backtracking/mColoringProblem.cpp)
 - [Hamiltonian](Backtracking/Hamiltonian.cpp)
-- [MatchAPattern](MatchAPattern.cpp)
+- [MatchAPattern](Backtracking/MatchAPattern.cpp)
 
 
 ### [Dynamic Programming](DynamicProgramming) ✔
