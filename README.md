@@ -40,6 +40,7 @@
 - [N-Queens 2](Backtracking/N-Queens2.cpp)
 - [Rat In a Maze](Backtracking/RatInaMaze.cpp)
 - [Sudoku Solver](Backtracking/SudokuSolver.cpp)
+- [Print all possible paths from top left to bottom right of a mXn matrix](Backtracking/printallpathsltor.cpp)
 - [Unique Paths III](Backtracking/UniquePathsIII.cpp)
 - [Find paths from corner cell to middle cell in maze](Backtracking/Findpathsfromcornercelltomiddlecellinmaze.cpp)
 - [Find shortest safe route in a path with landmines](Backtracking/Findshortestsaferouteinapathwithlandmines.cpp)
