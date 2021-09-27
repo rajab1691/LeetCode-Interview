@@ -30,7 +30,7 @@ void bfs(int src){
    adj=graph,v=vertex,src=starting point 
    vector visit =false initially 
 */
-void dfs(int src, vector<bool>visit){
+void dfs(int src, vector<bool>&visit){
 
     visit[src]=true;
     cout<<src<<" ";
