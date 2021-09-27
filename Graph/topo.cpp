@@ -1,4 +1,5 @@
 /*
+    **Graph must be a DAG, Ordering with the help of dependency**
     DFS
     ->just do dfs store elements and reverse it at the end
 */
