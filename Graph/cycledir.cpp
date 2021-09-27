@@ -23,7 +23,6 @@ bool isCycle(int src,bool* visited,bool* stack){
     BFS (using kahn's algo)
     kahn's algo=store indegree(=0) in a vector
 */
-
 bool isCycle(vector<int>adj[]){
 
     vector<int>indegree(v,0);
