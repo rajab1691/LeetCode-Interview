@@ -63,6 +63,7 @@
 - [Traversals](Graph/Traversals.cpp)
 - [Clone a Graph](Graph/clone.cpp)
 - [Count connected components](Graph/countCon.cpp)
+- [Number of Operations to Make Network Connected](Graph/opMakeCon.cpp)
 - [DSU implementation](Graph/DSU.cpp)
 - [Cycle detection Undirected](Graph/cycleUndir.cpp)
 - [Shortest Cycle](Graph/shortcycle.cpp)
