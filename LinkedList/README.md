@@ -5,6 +5,8 @@
 - Doubly Linked List-A Doubly Linked List (DLL) contains an extra pointer, typically called previous pointer, together with 
                      next pointer and data which are there in singly linked list.
 - Circular Linked List-Circular linked list is a linked list where all nodes are connected to form a circle. There is no NULL at the end.
+
+
 - Advantages over arrays 
 1) Dynamic size 
 2) Ease of insertion/deletion
