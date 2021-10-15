@@ -101,13 +101,13 @@
 
 ### [Binary Tree](BinaryTree) ✔
 
-- [Traversals](BinaryTree/Traversals.cpp)
+- [Traversals](BinaryTree/Traversals.cpp) ✔
 
 ### [Linked List](LinkedList) ✔
 
-
+- [Add two list](LinkedList/addtwoll.cpp) ✔
 
 ### [Trie](Trie) ✔
 
-- [Implementation](Trie/Implementation.cpp)
-- [Longest Common Prefix](Trie/LongestCommonPrefix.cpp)
+- [Implementation](Trie/Implementation.cpp) ✔
+- [Longest Common Prefix](Trie/LongestCommonPrefix.cpp) ✔
