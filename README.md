@@ -103,6 +103,9 @@
 
 - [Traversals](BinaryTree/Traversals.cpp)
 
+### [Linked List](LinkedList) ✔
+
+
 
 ### [Trie](Trie) ✔
 
