@@ -85,7 +85,7 @@
 - [Transitive Closure](Graph/transitive.cpp)
 - [Flood Fill](Graph/floodfill.cpp)
 - [Applying DFS on GRID](Graph/dfsongrid.cpp)
-- [Counting Connected Component in GRID / Number of Islands](Graph/countconnect.cpp)
+- [Counting Connected Component in GRID / Number of Islands ✔](Graph/countconnect.cpp)
 - [Applying BFS on GRID](Graph/bfsongrid.cpp)
 - [Steps by Knight](Graph/stepsbyknight.cpp)
 - [Multisource BFS](Graph/multisourcebfs.cpp)
