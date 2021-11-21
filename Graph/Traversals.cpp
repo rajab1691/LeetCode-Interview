@@ -1,4 +1,14 @@
 /*
+    -> If you know a solution is not far from the root of the tree, a breadth first search (BFS) might be better.
+
+    -> If the tree is very deep and solutions are rare, depth first search (DFS) might take an extremely long time, but BFS could be faster.
+
+    -> If the tree is very wide, a BFS might need too much memory, so it might be completely impractical.
+
+    -> If solutions are frequent but located deep in the tree, BFS could be impractical.
+*/
+
+/*
     BFS traversal (using queue)
     Time complexity : O(V+E) 
     adj=graph,v=vertex,src=starting point 
