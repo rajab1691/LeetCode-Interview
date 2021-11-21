@@ -10,7 +10,8 @@ bool dfs(int src,vector<int>adj[],vector<bool>&visit,int parent){
 
         for(auto x:adj[src]){
             if(!visit[x]){
-                dfs(x,adj,visit,src);
+                bool f=dfs(x,adj,visit,src);
+                if(f)return true;
             }else if(x!=parent){ //cycle detected
                 return true;
             }
