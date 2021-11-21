@@ -1,6 +1,7 @@
 /*
       DFS
       if backedge present, then cycle present
+      ->use extra array to store the current path
 */
 bool isCycle(int src,bool* visited,bool* stack){
 
