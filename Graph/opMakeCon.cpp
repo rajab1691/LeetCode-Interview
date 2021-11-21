@@ -1,3 +1,4 @@
+// https://leetcode.com/problems/number-of-operations-to-make-network-connected/
 /*
   ->Approach:-just count the connected component and return count-1
   Time: O(n+m), m is the length of connections
