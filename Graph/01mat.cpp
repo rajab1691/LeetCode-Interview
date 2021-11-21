@@ -1,7 +1,8 @@
 // https://leetcode.com/problems/01-matrix/
 
 /*
-  -> process all 0's and mark their distance as 0
+  -> process all 0's and mark their distance as 0 in dist matrix and push it into the queue
+  -> then pop elements of queue and process that
   Time: O(M * N), where M is number of rows, N is number of columns in the matrix.
   Space: O(M * N), space for the queue.
 
