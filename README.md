@@ -69,6 +69,8 @@
 - [Shortest Cycle](Graph/shortcycle.cpp)
 - [Cycle detection Directed ✔](Graph/cycledir.cpp)
 - [Topological sorting ✔](Graph/topo.cpp)
+- [Course Schedule I ✔](Graph/csi.cpp)
+- [Course Schedule II ✔](Graph/csii.cpp)
 - [Arrival and Departure time ✔](Graph/arrival.cpp)
 - [Find Itinery from Given arrival and departure](Graph/itinery.cpp)
 - [Bipartite (Two coloring Problem)](Graph/Bipartite.cpp)
