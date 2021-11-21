@@ -94,6 +94,7 @@
 - [Multisource BFS](Graph/multisourcebfs.cpp)
 - [01 Matrix ✔](Graph/01mat.cpp)
 - [Rotting Oranges ✔](Graph/rotten.cpp)
+- [Shortest Path in Binary Matrix ✔](Graph/shortestpathBinary.cpp)
 - [Print Backedges or Print one Cycle](Graph/printbackedges.cpp)
 - [Articulation Point and Bridges](Graph/articulation.cpp)
 - [Biconnected Graph](Graph/biconnected.cpp)
