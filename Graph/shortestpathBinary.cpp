@@ -6,6 +6,9 @@
     ->cal shortest path in all 8 direcns
     
     T.C- O(n*n)
+    **DP doesn't work because you will not calculate all 8 paths before calculating 
+      a path. Let see 1,1 now all the 8 paths are valid but not all 8 paths are available to you.
+      That's the difference between this and other DP problems.
 */
 
 
