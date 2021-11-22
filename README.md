@@ -11,7 +11,7 @@
 + [Heap](Heap) 🧨 
 + [Linked List](LinkedList) 🎡
 + [Graph](Graph) 🐱‍🏍
-
++ [Greedy](Greedy) 🙌
 
   
 ## Question List
@@ -126,6 +126,10 @@
 ### [Linked List](LinkedList) ✔
 
 - [Add two list](LinkedList/addtwoll.cpp) ✔
+
+### [Greedy](Greedy) ✔
+
+- [Minimum platform needed](Greedy/minimumplatform.cpp) ✔
 
 ### [Trie](Trie) ✔
 
