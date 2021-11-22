@@ -113,6 +113,9 @@
 - [Height of a Binary Tree](BinaryTree/heightbt.cpp) ✔
 - [Count leaves of a Binary Tree](BinaryTree/leaves.cpp) ✔
 - [Maximum int node in Binary tree](BinaryTree/maxbt.cpp) ✔
+- [isFullBt](BinaryTree/fullbt.cpp) ✔
+
+
 ### [Linked List](LinkedList) ✔
 
 - [Add two list](LinkedList/addtwoll.cpp) ✔
