@@ -123,6 +123,11 @@
 - [Vertical Order traversal of Bt](BinaryTree/vertical.cpp) ✔
 - [Bottom View of Bt](BinaryTree/bottomview.cpp) ✔
 
+
+### [Heap](Heap) ✔
+
+- [Connect n ropes with min Cost](Recursion/connectnropes.cpp)
+
 ### [Linked List](LinkedList) ✔
 
 - [Add two list](LinkedList/addtwoll.cpp) ✔
