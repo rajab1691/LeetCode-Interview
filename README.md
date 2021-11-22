@@ -120,7 +120,7 @@
 - [Print leaves in BT](BinaryTree/printleaves.cpp) ✔
 - [Right View of Bt](BinaryTree/rightview.cpp) ✔
 - [Left View of Bt](BinaryTree/leftview.cpp) ✔
-- [Bottom View of Bt](BinaryTree/bottomview.cpp) ✔
+- [Vertical Order traversal of Bt](BinaryTree/vertical.cpp) ✔
 
 
 ### [Linked List](LinkedList) ✔
