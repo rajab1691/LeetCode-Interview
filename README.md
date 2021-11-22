@@ -121,7 +121,7 @@
 - [Right View of Bt](BinaryTree/rightview.cpp) ✔
 - [Left View of Bt](BinaryTree/leftview.cpp) ✔
 - [Vertical Order traversal of Bt](BinaryTree/vertical.cpp) ✔
-- [Bottom View of Bt](Binarytree/bottomview.cpp) ✔
+- [Bottom View of Bt](BinaryTree/bottomview.cpp) ✔
 
 ### [Linked List](LinkedList) ✔
 
