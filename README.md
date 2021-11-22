@@ -115,6 +115,7 @@
 - [Maximum int node in Binary tree](BinaryTree/maxbt.cpp) ✔
 - [isFullBt](BinaryTree/fullbt.cpp) ✔
 - [isSymmetric/Mirror](BinaryTree/mirror.cpp) ✔
+- [Two tree is mirror](BinaryTree/twomirror.cpp) ✔
 - [Invert Bt](BinaryTree/invertbt.cpp) ✔
 
 
