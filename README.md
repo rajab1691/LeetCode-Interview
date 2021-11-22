@@ -126,7 +126,7 @@
 
 ### [Heap](Heap) ✔
 
-- [Connect n ropes with min Cost](Heap/connectnropes.cpp)
+- [Connect n ropes with min Cost](Heap/connectnropes.cpp) ✔
 
 ### [Linked List](LinkedList) ✔
 
