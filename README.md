@@ -114,7 +114,7 @@
 - [Count leaves of a Binary Tree](BinaryTree/leaves.cpp) ✔
 - [Maximum int node in Binary tree](BinaryTree/maxbt.cpp) ✔
 - [isFullBt](BinaryTree/fullbt.cpp) ✔
-
+- [isSymmetric/Mirror](BinaryTree/mirror.cpp) ✔
 
 ### [Linked List](LinkedList) ✔
 
