@@ -117,9 +117,9 @@
 - [isSymmetric/Mirror](BinaryTree/mirror.cpp) ✔
 - [Two tree is mirror](BinaryTree/twomirror.cpp) ✔
 - [Invert Bt](BinaryTree/invertbt.cpp) ✔
-- [Print leaves in BT](BinaryTree/printleaves.cpp)✔
-- [Right View of Bt](BinaryTree/rightview.cpp)✔
-- [Left View of Bt](BinaryTree/leftview.cpp)✔
+- [Print leaves in BT](BinaryTree/printleaves.cpp) ✔
+- [Right View of Bt](BinaryTree/rightview.cpp) ✔
+- [Left View of Bt](BinaryTree/leftview.cpp) ✔
 
 ### [Linked List](LinkedList) ✔
 
