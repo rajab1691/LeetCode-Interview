@@ -1,3 +1,10 @@
+/* 
+ All traversals has:
+   Time complexity: O(n) 
+   Space complexity: O(n)
+*/
+ 
+
 //Inorder Traversal
  vector<int> inorderTraversal(TreeNode* root) {
         if(root!=NULL){
