@@ -95,6 +95,7 @@
 - [Multisource BFS](Graph/multisourcebfs.cpp)
 - [01 Matrix ✔](Graph/01mat.cpp)
 - [Unit Area of largest region of 1's ✔](Graph/unitarea1.cpp)
+- [As Far from Land as Possible ✔](Graph/asfarland.cpp)
 - [Rotting Oranges ✔](Graph/rotten.cpp)
 - [Shortest Path in Binary Matrix ✔](Graph/shortestpathBinary.cpp)
 - [Find Whether Path exists ✔](Graph/findpath.cpp)
