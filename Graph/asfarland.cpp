@@ -1,6 +1,6 @@
 /*
   ->use BFS insert grid with val=1 in queue
-  T.C-O(v+e)
+  T.C-O(n*n)
 */
    bool isValid(int x,int y,int n){
         if(x<0 or x>n-1 or y<0 or y>n-1)
