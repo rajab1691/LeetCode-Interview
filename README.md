@@ -103,6 +103,7 @@
 - [Articulation Point and Bridges](Graph/articulation.cpp)
 - [Biconnected Graph](Graph/biconnected.cpp)
 - [Strongly Connected Components (Kosaraju)](Graph/kosaraju.cpp)
+- [Mother Vertex ✔](Graph/mother.cpp)
 - [DFS on Trees](Graph/dfsontrees.cpp)
 - [Print the Path b/w any two nodes of a tree](Graph/pathintree.cpp)
 - [Euler's tour](Graph/euler.cpp)
