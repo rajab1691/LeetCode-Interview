@@ -19,7 +19,7 @@ int prims(vector<pair<int,int>>adj[],int n,int src){
     while(!pq.empty()){
 
         //pick the minimum wdge weight
-        auto best=pq.front();
+        auto best=pq.top();
         pq.pop();
 
         int node=best.second;
