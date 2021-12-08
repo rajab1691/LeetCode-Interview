@@ -1,8 +1,6 @@
 // https://practice.geeksforgeeks.org/problems/rat-in-a-maze-problem/1#
 /*
-  Quesn to Ask:
-    1.Can i visit a cell more than once?
-      ->for this quesn no we can't visit
+  
       
   Time Complexity: O(3^(n^2))=As there are N^2 cells from each cell there are 3 unvisited neighbouring cells. So the time complexity O(3^(N^2).
   Auxiliary Space: O(3^(n^2))=As there can be atmost 3^(n^2) cells in the answer so the space complexity is O(3^(n^2)).
