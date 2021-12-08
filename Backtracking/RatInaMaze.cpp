@@ -1,5 +1,7 @@
 // https://practice.geeksforgeeks.org/problems/rat-in-a-maze-problem/1#
-
+/*
+      Rat is at (0,0) he has to go to (n-1,n-1) and 0-wall, 1-blank
+*/
 //Time Complexity: O(3^(n^2))=As there are N^2 cells from each cell there are 3 unvisited neighbouring cells. So the time complexity O(3^(N^2).
 
 class Solution{
