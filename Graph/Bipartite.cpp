@@ -11,7 +11,7 @@
 
         for(auto x:adj[src]){
             if(visit[x]==0){
-                bool f=dfs(x,adj,visit,3-color,parent);
+                bool f=dfs(x,adj,visit,3-color,src);
                 if(!f)return false;
             }
             //for odd cycle detection
