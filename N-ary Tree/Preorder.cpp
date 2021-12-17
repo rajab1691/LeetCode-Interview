@@ -36,3 +36,26 @@ vector < int > preorder(Node * root) {
   utilPre(root, res);
   return res;
 }
+
+/*
+  Iterative
+*/
+ vector < int > preorder(Node * root) {
+   vector < int > res;
+   if (root == NULL)
+     return res;
+
+   stack < Node * > st;
+   st.push(root);
+
+   while (!st.empty()) {
+     Node * curr = st.top();
+     st.pop();
+     res.push_back(curr -> val);
+     //traverse from the rightmost child(bcuz we know in iterative we want leftmost on top of stack)
+     for (int i = curr -> children.size() - 1; i >= 0; i--) {
+       st.push(curr -> children[i]);
+     }
+   }
+   return res;
+ }
