@@ -3,7 +3,9 @@
     Since the problem is to get all the possible results, not the best or the number of result, 
     thus we don’t need to consider DP(dynamic programming), recursion is needed to handle it.
     
-    Time Complexity=O(k*2^n)
+    Time complexity :- O(len(nums)^target) or O(N^M)
+
+    Space Complexity :- O(length of longest combination)
 */
 
 class Solution {
