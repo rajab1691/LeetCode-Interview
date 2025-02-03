@@ -13,6 +13,7 @@ public:
     void helper(int n,int k,int idx,vector<int>ans){
         
         if(ans.size()==k){
+            // push the intermediate ans to the final result
             res.push_back(ans);
             return;
         }
